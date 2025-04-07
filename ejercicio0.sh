@@ -1,3 +1,4 @@
+#!/bin/bash
 sumar_energia(){
     n1="$1"
     n2="$2"
